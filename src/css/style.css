@@ -1,0 +1,22 @@
+/* styles.css or your custom CSS file */
+.custom-input {
+    border:2px solid black;
+  }
+  /* styles.css or your custom CSS file */
+
+  /* styles.css or your custom CSS file */
+.form-wrapper {
+    font-size: 19px;
+    color: grey;
+  }
+  /* styles.css or your custom CSS file */
+.custom-input-placeholder {
+  
+  font-size: 14px; /* Adjust the font size as needed */
+  color: #999; /* Adjust the color as needed */
+}
+/* styles.css or your custom CSS file */
+.form-container {
+  width: 400px; /* Adjust the width as needed */
+  padding: 20px; /* Adjust the padding as needed */
+}
